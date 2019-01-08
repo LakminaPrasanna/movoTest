@@ -11,6 +11,6 @@
         <title>Add Employee Success</title>
     </head>
     <body>
-        Employee has been added successfully.
+        Employee has been added successfully. Thank oyou
     </body>
 </html>
